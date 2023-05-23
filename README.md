@@ -9,7 +9,7 @@ A primeira empresa, Bloco de Código, precisa de um dashboard para monitorar a s
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi-3
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![](https://github.com/Gabrieltkg/Challenge_BI_VitrineDev/blob/main/Painel%201%20-%20An%C3%A1lise%20de%20clicks%20e%20visualiza%C3%A7%C3%B5es.png#vitrinedev)
 
 ## Detalhes do projeto
 
