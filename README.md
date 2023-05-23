@@ -1,5 +1,4 @@
-# Nome do meu projeto
-
+# BI Challenge - Semana 1 - Campanha de Marketing
 Rápida descrição do objetivo de fazer esse projeto
 
 | :placard: Vitrine.Dev |     |
