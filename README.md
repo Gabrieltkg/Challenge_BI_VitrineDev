@@ -5,7 +5,7 @@ A primeira empresa, Bloco de Código, precisa de um dashboard para monitorar a s
 | -------------  | --- |
 | :sparkles: Nome        | **BI Challenge - Semana 1 - Campanha de Marketing**
 | :label: Tecnologias | qliksense
-| :rocket: URL         | https://url-deploy.com.br
+| :rocket: URL         | ...
 | :fire: Desafio     | https://www.alura.com.br/challenges/bi-3
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
