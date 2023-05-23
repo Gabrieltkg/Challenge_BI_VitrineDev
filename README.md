@@ -11,6 +11,8 @@ A primeira empresa, Bloco de Código, precisa de um dashboard para monitorar a s
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 ![](https://github.com/Gabrieltkg/Challenge_BI_VitrineDev/blob/main/Painel%201%20-%20An%C3%A1lise%20de%20clicks%20e%20visualiza%C3%A7%C3%B5es.png#vitrinedev)
 
+![](https://github.com/Gabrieltkg/Challenge_BI_VitrineDev/blob/main/Painel%202%20-%20Visualiza%C3%A7%C3%B5es%20por%20artigo%20e%20categoriaA.png)
+
 ## Detalhes do projeto
 
 Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
